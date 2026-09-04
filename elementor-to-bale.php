@@ -3,7 +3,7 @@
  * Plugin Name: اتصال فرم Elementor به ربات بله
  * Description: بعد از ارسال فرم Elementor Pro (اکشن Webhook)، اطلاعات فرم را به ربات بله (Bale) ارسال می‌کند. یک بخش تست دو‌طرفه هم دارد تا مطمئن شوید توکن و ارتباط ربات درست است.
  * Version: 1.1.0
- * Author: -
+ * Author: amirshabani
  * Text Domain: elementor-to-bale
  */
 
